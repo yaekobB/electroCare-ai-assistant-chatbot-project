@@ -1,6 +1,6 @@
-# ⚡ ElectroCare Assistant
+# ⚡ ElectroCare AI Assistant Chatbot
 
-ElectroCare Assistant is an **NLP-based customer service chatbot** designed to help customers get information about a company's **services, policies, and steps to perform certain actions** — all through an easy-to-use chat interface.  
+ElectroCare AI Assistant Chatbot is an **NLP-based customer service chatbot** designed to help customers get information about a ElectroCare company's **services, policies, and steps to perform certain actions** — all through an easy-to-use chat interface.  
 It supports **multilingual conversations** in **English**, **Italiano**, and **Tigrigna**, allowing customers to interact in the language they are most comfortable with.
 
 ---
@@ -10,10 +10,8 @@ It supports **multilingual conversations** in **English**, **Italiano**, and **T
 - 🗨 **Real-time chat** with an AI-powered intent classifier.
 - 🌍 **Multilingual support**: English, Italiano, and Tigrigna.
 - 🔍 **Knowledge Base Search** for fallback answers when intent confidence is low.
-- 🖥 **Clean, responsive web UI** (optimized for desktop & mobile).
 - 📚 **Intent classification** using TF-IDF + Logistic Regression with custom threshold tuning.
 - 📝 **Suggestions & quick replies** for related topics.
-- 🛡 **Debug mode** for developers to see intent and confidence scores.
 
 ---
 
@@ -31,8 +29,8 @@ It supports **multilingual conversations** in **English**, **Italiano**, and **T
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/electrocare-assistant.git
-cd electrocare-assistant
+git clone https://github.com/yaekobB/electroCare-ai-assistant-chatbot-project.git
+cd electroCare-ai-assistant-chatbot-project/app
 ```
 
 ### 2️⃣ Install Dependencies
@@ -65,41 +63,65 @@ The app will start on **http://localhost:5000**
 ## 📸 Screenshots
 
 **Main UI**  
-![Main Chat UI](assets/ui_main.png)
+[View Main Chat UI](assets/main-UI.png)
 
 **English Chat Example**  
-![English Chat](assets/chat_english.png)
+[View English Chat](assets/chat-english.png)
 
 **Italiano Chat Example**  
-![Italian Chat](assets/chat_italiano.png)
+[View Italian Chat](assets/chat-italiano.png)
 
 **Tigrigna Chat Example**  
-![Tigrigna Chat](assets/chat_tigrigna.png)
+[View Tigrigna Chat](assets/chat-tigrinya.png)
+
 
 ---
 
 ## 📂 Project Structure
 ```
-electrocare-assistant/
-│── app.py                # Main Flask backend
-│── index.html             # Frontend chat UI
-│── intents.json           # Training data for intent classifier
-│── test_data.json         # External evaluation dataset
-│── kb_articles.json       # Knowledge base articles
-│── nav_index.json         # Navigation index for website sections
-│── models/                # Saved ML model files
-│── assets/                # UI screenshots (for README)
-│── requirements.txt       # Python dependencies
+electroCare-ai-assistant-chatbot-project/
+│
+├── app/                        # Application source code
+│   ├── app.py                   # Main Flask backend (entry point)
+│   ├── answers.py               # Predefined responses per intent
+│   ├── intent_classifier_optimized.py  # Intent classification training & evaluation
+│   ├── kb_build.py              # Build script for knowledge base index
+│   └── static/
+│       └── index.html           # Frontend chat UI
+│
+├── data/                        # Data files
+│   ├── intents_optimized.json   # Training data for intent classifier
+│   ├── test_data_optimized.json # External evaluation dataset
+│   ├── kb_articles.json         # Knowledge base articles
+│   └── nav_index.json           # Navigation index for website sections
+│
+├── models/                      # Saved ML models & label encoders
+│
+├── assets/                      # Images for README
+│   ├── main-UI.png               # Main chatbot UI screenshot
+│   ├── chat-english.png          # Chat example in English
+│   ├── chat-italiano.png         # Chat example in Italian
+│   └── chat-tigrinya.png         # Chat example in Tigrinya
+│
+├── requirements.txt             # Python dependencies
+├── README.md                    # Project documentation
+└── .gitignore                   # Git ignore rules
 ```
 ---
 
 ## 📊 Model Training & Evaluation
-- **Internal validation accuracy**: ~0.75
-- **External test accuracy**: ~0.84
-- Training process:  
-  - TF-IDF vectorization.  
-  - Logistic Regression with per-class threshold tuning.  
-  - Data augmentation with hard negatives.
+The ElectroCare AI Assistant Chatbot was trained and evaluated using an optimized NLP pipeline:  
+
+- **Internal validation accuracy**: ~0.75  
+  *Performance on a held-out portion of the training dataset.*  
+- **External test accuracy**: ~0.84  
+  *Performance on an unseen evaluation dataset.*  
+
+**Training Process:**  
+- **Text Preprocessing & Cleaning** – Normalization, lowercasing, and punctuation removal for consistent text representation.  
+- **Feature Extraction** – TF-IDF vectorization with unigram and bigram support to capture contextual meaning.  
+- **Model Training** – Logistic Regression classifier with per-class threshold tuning to improve intent classification accuracy.  
+- **Data Augmentation** – Inclusion of *hard negatives* to increase robustness against ambiguous or misleading queries.
 
 ---
 
@@ -112,8 +134,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 This project is licensed under the **MIT License** — you are free to use, modify, and distribute it.
 
 ---
-
-## 👨‍💻 Author
-Developed by **[Your Name]**  
-🎯 Master's Student in Artificial Intelligence & Computer Science  
-📧 your.email@example.com

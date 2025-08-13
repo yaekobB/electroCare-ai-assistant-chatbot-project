@@ -1,3 +1,4 @@
+![ElectroCare Chatbot Assistant Banner](assets/banner.png)
 # ⚡ ElectroCare AI Assistant Chatbot
 
 ElectroCare AI Assistant Chatbot is an **NLP-based customer service chatbot** designed to help customers get information about ElectroCare company's **services, policies, and steps to perform certain actions** — all through an easy-to-use chat interface.  

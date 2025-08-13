@@ -1,6 +1,6 @@
 # ⚡ ElectroCare AI Assistant Chatbot
 
-ElectroCare AI Assistant Chatbot is an **NLP-based customer service chatbot** designed to help customers get information about a ElectroCare company's **services, policies, and steps to perform certain actions** — all through an easy-to-use chat interface.  
+ElectroCare AI Assistant Chatbot is an **NLP-based customer service chatbot** designed to help customers get information about ElectroCare company's **services, policies, and steps to perform certain actions** — all through an easy-to-use chat interface.  
 It supports **multilingual conversations** in **English**, **Italiano**, and **Tigrigna**, allowing customers to interact in the language they are most comfortable with.
 
 ---
@@ -125,10 +125,12 @@ The ElectroCare AI Assistant Chatbot was trained and evaluated using an optimize
 
 ---
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
----
+## 🔮 Future Improvements
+- Integrate more advanced translation APIs for improved multilingual accuracy.
+- Add voice input/output support for hands-free interaction.
+- Improve Tigrigna translation quality with a specialized model.
+- Enhance intent classification using transformer-based embeddings.
+- Expand knowledge base for more comprehensive answers.
 
 ## 📜 License
 This project is licensed under the **MIT License** — you are free to use, modify, and distribute it.

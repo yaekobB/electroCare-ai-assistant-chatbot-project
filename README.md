@@ -30,7 +30,7 @@ It supports **multilingual conversations** in **English**, **Italiano**, and **T
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/yaekobB/electroCare-ai-assistant-chatbot-project.git
-cd electroCare-ai-assistant-chatbot-project/app
+cd electroCare-ai-assistant-chatbot-project
 ```
 
 ### 2️⃣ Install Dependencies
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ Run the Application
 ```bash
-python app.py
+python app/app.py
 ```
 The app will start on **http://localhost:5000**
 
@@ -62,17 +62,13 @@ The app will start on **http://localhost:5000**
 
 ## 📸 Screenshots
 
-**Main UI**  
-[View Main Chat UI](assets/main-UI.png)
+**Main UI**  [View Main Chat UI](assets/main-UI.png)
 
-**English Chat Example**  
-[View English Chat](assets/chat-english.png)
+**English Chat Example**  [View English Chat](assets/chat-english.png)
 
-**Italiano Chat Example**  
-[View Italian Chat](assets/chat-italiano.png)
+**Italiano Chat Example**  [View Italian Chat](assets/chat-italiano.png)
 
-**Tigrigna Chat Example**  
-[View Tigrigna Chat](assets/chat-tigrinya.png)
+**Tigrigna Chat Example**  [View Tigrigna Chat](assets/chat-tigrinya.png)
 
 
 ---

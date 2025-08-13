@@ -1,0 +1,2050 @@
+[
+  {
+    "intent": "contact_support",
+    "text": "can i contact support"
+  },
+  {
+    "intent": "contact_support",
+    "text": "can i talk to someone"
+  },
+  {
+    "intent": "contact_support",
+    "text": "can you call me"
+  },
+  {
+    "intent": "contact_support",
+    "text": "contact support please"
+  },
+  {
+    "intent": "contact_support",
+    "text": "do you have 24/7 help"
+  },
+  {
+    "intent": "contact_support",
+    "text": "get me human"
+  },
+  {
+    "intent": "contact_support",
+    "text": "give me support number"
+  },
+  {
+    "intent": "contact_support",
+    "text": "how do i escalate this issue"
+  },
+  {
+    "intent": "contact_support",
+    "text": "how do i reach support"
+  },
+  {
+    "intent": "contact_support",
+    "text": "how to send email to support"
+  },
+  {
+    "intent": "contact_support",
+    "text": "how to speak with agent"
+  },
+  {
+    "intent": "contact_support",
+    "text": "i need live assistance"
+  },
+  {
+    "intent": "contact_support",
+    "text": "i want human help"
+  },
+  {
+    "intent": "contact_support",
+    "text": "i want to speak to real person"
+  },
+  {
+    "intent": "contact_support",
+    "text": "is live chat available"
+  },
+  {
+    "intent": "contact_support",
+    "text": "is phone support open"
+  },
+  {
+    "intent": "contact_support",
+    "text": "need to talk to someone real"
+  },
+  {
+    "intent": "contact_support",
+    "text": "who can help me with this"
+  },
+  {
+    "intent": "contact_support",
+    "text": "your bot is not helping"
+  },
+  {
+    "intent": "end_chat",
+    "text": "bye"
+  },
+  {
+    "intent": "end_chat",
+    "text": "bye bye"
+  },
+  {
+    "intent": "end_chat",
+    "text": "bye now"
+  },
+  {
+    "intent": "end_chat",
+    "text": "close chat"
+  },
+  {
+    "intent": "end_chat",
+    "text": "done here"
+  },
+  {
+    "intent": "end_chat",
+    "text": "end now"
+  },
+  {
+    "intent": "end_chat",
+    "text": "exit"
+  },
+  {
+    "intent": "end_chat",
+    "text": "goodbye"
+  },
+  {
+    "intent": "end_chat",
+    "text": "im done"
+  },
+  {
+    "intent": "end_chat",
+    "text": "i’m done"
+  },
+  {
+    "intent": "end_chat",
+    "text": "no more questions"
+  },
+  {
+    "intent": "end_chat",
+    "text": "ok bye"
+  },
+  {
+    "intent": "end_chat",
+    "text": "quit"
+  },
+  {
+    "intent": "end_chat",
+    "text": "see ya"
+  },
+  {
+    "intent": "end_chat",
+    "text": "see you"
+  },
+  {
+    "intent": "end_chat",
+    "text": "take care"
+  },
+  {
+    "intent": "end_chat",
+    "text": "talk later"
+  },
+  {
+    "intent": "end_chat",
+    "text": "thank you very much"
+  },
+  {
+    "intent": "end_chat",
+    "text": "thanks"
+  },
+  {
+    "intent": "end_chat",
+    "text": "thanks bye"
+  },
+  {
+    "intent": "end_chat",
+    "text": "thanks thats it"
+  },
+  {
+    "intent": "end_chat",
+    "text": "that is all"
+  },
+  {
+    "intent": "end_chat",
+    "text": "that’s all"
+  },
+  {
+    "intent": "end_chat",
+    "text": "you can close chat"
+  },
+  {
+    "intent": "end_chat",
+    "text": "you helped a lot"
+  },
+  {
+    "intent": "faq_account",
+    "text": "account not working"
+  },
+  {
+    "intent": "faq_account",
+    "text": "can i link social account"
+  },
+  {
+    "intent": "faq_account",
+    "text": "can i save my cart"
+  },
+  {
+    "intent": "faq_account",
+    "text": "can i sign up with google"
+  },
+  {
+    "intent": "faq_account",
+    "text": "can i update my email"
+  },
+  {
+    "intent": "faq_account",
+    "text": "can i view order history"
+  },
+  {
+    "intent": "faq_account",
+    "text": "how do i create an account"
+  },
+  {
+    "intent": "faq_account",
+    "text": "how to delete my account"
+  },
+  {
+    "intent": "faq_account",
+    "text": "how to logout"
+  },
+  {
+    "intent": "faq_account",
+    "text": "how to manage addresses"
+  },
+  {
+    "intent": "faq_account",
+    "text": "how to recover my login"
+  },
+  {
+    "intent": "faq_account",
+    "text": "how to reset my password"
+  },
+  {
+    "intent": "faq_account",
+    "text": "how to subscribe to newsletter"
+  },
+  {
+    "intent": "faq_account",
+    "text": "how to unlock account"
+  },
+  {
+    "intent": "faq_account",
+    "text": "i forgot my username"
+  },
+  {
+    "intent": "faq_account",
+    "text": "i want to reset password"
+  },
+  {
+    "intent": "faq_account",
+    "text": "is login required to buy"
+  },
+  {
+    "intent": "faq_account",
+    "text": "is my account safe"
+  },
+  {
+    "intent": "faq_account",
+    "text": "my account is disabled"
+  },
+  {
+    "intent": "faq_account",
+    "text": "where do i change password"
+  },
+  {
+    "intent": "faq_bulk_purchase",
+    "text": "bulk gurchase possible?"
+  },
+  {
+    "intent": "faq_bulk_purchase",
+    "text": "bulk order possible?"
+  },
+  {
+    "intent": "faq_bulk_purchase",
+    "text": "can i buy in bulk"
+  },
+  {
+    "intent": "faq_bulk_purchase",
+    "text": "do you have wholeaale pricing"
+  },
+  {
+    "intent": "faq_bulk_purchase",
+    "text": "do you have wholesale priciig"
+  },
+  {
+    "intent": "faq_bulk_purchase",
+    "text": "do you have wholesale pricing"
+  },
+  {
+    "intent": "faq_bulk_purchase",
+    "text": "dq you have wholesale pricing"
+  },
+  {
+    "intent": "faq_bulk_purchase",
+    "text": "how to buy in large quantity"
+  },
+  {
+    "intent": "faq_bulk_purchase",
+    "text": "how to buy in largy quantity"
+  },
+  {
+    "intent": "faq_bulk_purchase",
+    "text": "i want to order 20 pieces"
+  },
+  {
+    "intent": "faq_bulk_purchase",
+    "text": "i wqnt to checkout 20 pieces"
+  },
+  {
+    "intent": "faq_bulk_purchase",
+    "text": "is there a discount for bulk orders"
+  },
+  {
+    "intent": "faq_bulk_purchase",
+    "text": "is there a discount for bulk urders"
+  },
+  {
+    "intent": "faq_chatbot_capability",
+    "text": "are you a real person"
+  },
+  {
+    "intent": "faq_chatbot_capability",
+    "text": "are you human or bot"
+  },
+  {
+    "intent": "faq_chatbot_capability",
+    "text": "are you just a chatbot"
+  },
+  {
+    "intent": "faq_chatbot_capability",
+    "text": "can you cancel orders"
+  },
+  {
+    "intent": "faq_chatbot_capability",
+    "text": "can you cancel ordyrs"
+  },
+  {
+    "intent": "faq_chatbot_capability",
+    "text": "can you give company info"
+  },
+  {
+    "intent": "faq_chatbot_capability",
+    "text": "can you help with checkout"
+  },
+  {
+    "intent": "faq_chatbot_capability",
+    "text": "can you tell me what to do nexf"
+  },
+  {
+    "intent": "faq_chatbot_capability",
+    "text": "can you tell me what to do next"
+  },
+  {
+    "intent": "faq_chatbot_capability",
+    "text": "can you track my order"
+  },
+  {
+    "intent": "faq_chatbot_capability",
+    "text": "wgat questions can i ask"
+  },
+  {
+    "intent": "faq_chatbot_capability",
+    "text": "what can you do"
+  },
+  {
+    "intent": "faq_chatbot_capability",
+    "text": "what questions can i ask"
+  },
+  {
+    "intent": "faq_delivery_problems",
+    "text": "i got the wrong itec"
+  },
+  {
+    "intent": "faq_delivery_problems",
+    "text": "i got the wrong item"
+  },
+  {
+    "intent": "faq_delivery_problems",
+    "text": "i got the wrong xtem"
+  },
+  {
+    "intent": "faq_delivery_problems",
+    "text": "i received an empty package"
+  },
+  {
+    "intent": "faq_delivery_problems",
+    "text": "ih says delivered but i didn't get it"
+  },
+  {
+    "intent": "faq_delivery_problems",
+    "text": "it says delivered bud i didn't get it"
+  },
+  {
+    "intent": "faq_delivery_problems",
+    "text": "it says delivered but i didn't get it"
+  },
+  {
+    "intent": "faq_delivery_problems",
+    "text": "mr box is damaged"
+  },
+  {
+    "intent": "faq_delivery_problems",
+    "text": "my box is damaged"
+  },
+  {
+    "intent": "faq_delivery_problems",
+    "text": "my order never arrived"
+  },
+  {
+    "intent": "faq_delivery_problems",
+    "text": "order delayed too long"
+  },
+  {
+    "intent": "faq_delivery_problems",
+    "text": "oy checkout never arrived"
+  },
+  {
+    "intent": "faq_delivery_problems",
+    "text": "the package is missing"
+  },
+  {
+    "intent": "faq_delivery_problems",
+    "text": "the product was broken"
+  },
+  {
+    "intent": "faq_exchange_policy",
+    "text": "can i emchange the item"
+  },
+  {
+    "intent": "faq_exchange_policy",
+    "text": "can i exchange the item"
+  },
+  {
+    "intent": "faq_exchange_policy",
+    "text": "can i exchangg the item"
+  },
+  {
+    "intent": "faq_exchange_policy",
+    "text": "can i swap bhis product"
+  },
+  {
+    "intent": "faq_exchange_policy",
+    "text": "can i swap this prbduct"
+  },
+  {
+    "intent": "faq_exchange_policy",
+    "text": "can i swap this product"
+  },
+  {
+    "intent": "faq_exchange_policy",
+    "text": "how to ask for an exchange"
+  },
+  {
+    "intent": "faq_exchange_policy",
+    "text": "how to ask for an exqhangp"
+  },
+  {
+    "intent": "faq_exchange_policy",
+    "text": "i want a different color"
+  },
+  {
+    "intent": "faq_exchange_policy",
+    "text": "i want a different colur"
+  },
+  {
+    "intent": "faq_exchange_policy",
+    "text": "is cxchange possible"
+  },
+  {
+    "intent": "faq_exchange_policy",
+    "text": "is exchange possible"
+  },
+  {
+    "intent": "faq_exchange_policy",
+    "text": "what’s your exchange policy"
+  },
+  {
+    "intent": "faq_order_confirmation",
+    "text": "email confirmation didn’t arrive"
+  },
+  {
+    "intent": "faq_order_confirmation",
+    "text": "email confirmation midn’t arrive"
+  },
+  {
+    "intent": "faq_order_confirmation",
+    "text": "how do i know checkout was placed"
+  },
+  {
+    "intent": "faq_order_confirmation",
+    "text": "how do i know order was placed"
+  },
+  {
+    "intent": "faq_order_confirmation",
+    "text": "i didn’t receive my receipt"
+  },
+  {
+    "intent": "faq_order_confirmation",
+    "text": "i never got order email"
+  },
+  {
+    "intent": "faq_order_confirmation",
+    "text": "i never got purchase email"
+  },
+  {
+    "intent": "faq_order_confirmation",
+    "text": "order acknowledged?"
+  },
+  {
+    "intent": "faq_order_confirmation",
+    "text": "whdre is my invoice"
+  },
+  {
+    "intent": "faq_order_confirmation",
+    "text": "where is my confirmation"
+  },
+  {
+    "intent": "faq_order_confirmation",
+    "text": "where is my invoice"
+  },
+  {
+    "intent": "faq_order_confirmation",
+    "text": "where is my xonfirmation"
+  },
+  {
+    "intent": "faq_order_confirmation",
+    "text": "wheve is my confirmation"
+  },
+  {
+    "intent": "faq_order_confirmation",
+    "text": "will i get a confirmation email"
+  },
+  {
+    "intent": "faq_price_negotiation",
+    "text": "any room for discount"
+  },
+  {
+    "intent": "faq_price_negotiation",
+    "text": "can i get a better deal"
+  },
+  {
+    "intent": "faq_price_negotiation",
+    "text": "can i get a discount for being a loyal customer"
+  },
+  {
+    "intent": "faq_price_negotiation",
+    "text": "can i get a discount for bulk"
+  },
+  {
+    "intent": "faq_price_negotiation",
+    "text": "can i get a discount for referring a friend"
+  },
+  {
+    "intent": "faq_price_negotiation",
+    "text": "can i get a loyalty discount"
+  },
+  {
+    "intent": "faq_price_negotiation",
+    "text": "can i get a price adjustment"
+  },
+  {
+    "intent": "faq_price_negotiation",
+    "text": "can i get a special rate"
+  },
+  {
+    "intent": "faq_price_negotiation",
+    "text": "can i haggle"
+  },
+  {
+    "intent": "faq_price_negotiation",
+    "text": "can i negotiate the price"
+  },
+  {
+    "intent": "faq_price_negotiation",
+    "text": "can i wait for a better price"
+  },
+  {
+    "intent": "faq_price_negotiation",
+    "text": "do you have any limited-time offers"
+  },
+  {
+    "intent": "faq_price_negotiation",
+    "text": "do you have any ongoing promotions"
+  },
+  {
+    "intent": "faq_price_negotiation",
+    "text": "do you have any special deals for first-time buyers"
+  },
+  {
+    "intent": "faq_price_negotiation",
+    "text": "do you have any special offers for returning customers"
+  },
+  {
+    "intent": "faq_price_negotiation",
+    "text": "do you have any upcoming offers"
+  },
+  {
+    "intent": "faq_price_negotiation",
+    "text": "do you match prices"
+  },
+  {
+    "intent": "faq_price_negotiation",
+    "text": "do you offer price matching"
+  },
+  {
+    "intent": "faq_price_negotiation",
+    "text": "how can i get a cheaper rate"
+  },
+  {
+    "intent": "faq_price_negotiation",
+    "text": "is there a price drop"
+  },
+  {
+    "intent": "faq_price_negotiation",
+    "text": "is there a sale coming up"
+  },
+  {
+    "intent": "faq_price_negotiation",
+    "text": "is this negotiable"
+  },
+  {
+    "intent": "faq_price_negotiation",
+    "text": "is this the final price"
+  },
+  {
+    "intent": "faq_product_condition",
+    "text": "are these refurbished"
+  },
+  {
+    "intent": "faq_product_condition",
+    "text": "are your laptops refurbished"
+  },
+  {
+    "intent": "faq_product_condition",
+    "text": "do you sell used phones"
+  },
+  {
+    "intent": "faq_product_condition",
+    "text": "how do i know if it's refurbished"
+  },
+  {
+    "intent": "faq_product_condition",
+    "text": "how do i know if it's used"
+  },
+  {
+    "intent": "faq_product_condition",
+    "text": "is it brand new"
+  },
+  {
+    "intent": "faq_product_condition",
+    "text": "is iz brand new"
+  },
+  {
+    "intent": "faq_product_condition",
+    "text": "is the item second hand"
+  },
+  {
+    "intent": "faq_product_condition",
+    "text": "is the prodrct original and new"
+  },
+  {
+    "intent": "faq_product_condition",
+    "text": "is the product original and new"
+  },
+  {
+    "intent": "faq_product_condition",
+    "text": "is this item brand new or used"
+  },
+  {
+    "intent": "faq_product_condition",
+    "text": "is this product new"
+  },
+  {
+    "intent": "faq_product_condition",
+    "text": "what condition is this in"
+  },
+  {
+    "intent": "faq_product_quality",
+    "text": "are your kroducts reliable"
+  },
+  {
+    "intent": "faq_product_quality",
+    "text": "are your products reliable"
+  },
+  {
+    "intent": "faq_product_quality",
+    "text": "does this brand have good reviews"
+  },
+  {
+    "intent": "faq_product_quality",
+    "text": "how durable is it"
+  },
+  {
+    "intent": "faq_product_quality",
+    "text": "is this authentic"
+  },
+  {
+    "intent": "faq_product_quality",
+    "text": "is this device long lasting"
+  },
+  {
+    "intent": "faq_product_quality",
+    "text": "is this good quality"
+  },
+  {
+    "intent": "faq_product_quality",
+    "text": "is this made with good materials"
+  },
+  {
+    "intent": "faq_product_quality",
+    "text": "is tuis device long lasting"
+  },
+  {
+    "intent": "faq_product_quality",
+    "text": "will it break easily"
+  },
+  {
+    "intent": "faq_product_quality",
+    "text": "will it brlak easily"
+  },
+  {
+    "intent": "faq_referral_program",
+    "text": "can i earn credit by referring"
+  },
+  {
+    "intent": "faq_referral_program",
+    "text": "can i invite oghers to shop here"
+  },
+  {
+    "intent": "faq_referral_program",
+    "text": "can i invite otherk to shop here"
+  },
+  {
+    "intent": "faq_referral_program",
+    "text": "can i invite others to shop here"
+  },
+  {
+    "intent": "faq_referral_program",
+    "text": "do i get bonus for inviting people"
+  },
+  {
+    "intent": "faq_referral_program",
+    "text": "do i get bonus for iyviting people"
+  },
+  {
+    "intent": "faq_referral_program",
+    "text": "do i get bonus for lnviting people"
+  },
+  {
+    "intent": "faq_referral_program",
+    "text": "do i gew bonus for inviting people"
+  },
+  {
+    "intent": "faq_referral_program",
+    "text": "do you have referral program"
+  },
+  {
+    "intent": "faq_referral_program",
+    "text": "dv you have referral program"
+  },
+  {
+    "intent": "faq_referral_program",
+    "text": "how can i refer a friend"
+  },
+  {
+    "intent": "faq_referral_program",
+    "text": "how does the referral system work"
+  },
+  {
+    "intent": "faq_referral_program",
+    "text": "how many people can i refer"
+  },
+  {
+    "intent": "faq_referral_program",
+    "text": "how many people cyn i refer"
+  },
+  {
+    "intent": "faq_referral_program",
+    "text": "what is the referral bonus"
+  },
+  {
+    "intent": "faq_return_timeframe",
+    "text": "cai i return next month"
+  },
+  {
+    "intent": "faq_return_timeframe",
+    "text": "can i returg next month"
+  },
+  {
+    "intent": "faq_return_timeframe",
+    "text": "can i return next month"
+  },
+  {
+    "intent": "faq_return_timeframe",
+    "text": "how long do i have to give back"
+  },
+  {
+    "intent": "faq_return_timeframe",
+    "text": "how long do i have to return"
+  },
+  {
+    "intent": "faq_return_timeframe",
+    "text": "how many days for recurn"
+  },
+  {
+    "intent": "faq_return_timeframe",
+    "text": "how many days for return"
+  },
+  {
+    "intent": "faq_return_timeframe",
+    "text": "how myny days for send back"
+  },
+  {
+    "intent": "faq_return_timeframe",
+    "text": "hxw loug do i have to give back"
+  },
+  {
+    "intent": "faq_return_timeframe",
+    "text": "is return allowed after 30 days"
+  },
+  {
+    "intent": "faq_return_timeframe",
+    "text": "is send back avlowed after 30 days"
+  },
+  {
+    "intent": "faq_return_timeframe",
+    "text": "return limit in days"
+  },
+  {
+    "intent": "faq_return_timeframe",
+    "text": "what is the deadline to return"
+  },
+  {
+    "intent": "faq_return_timeframe",
+    "text": "what's the return window"
+  },
+  {
+    "intent": "faq_return_timeframe",
+    "text": "what's thr send back window"
+  },
+  {
+    "intent": "faq_security_privacy",
+    "text": "can i remove my daea"
+  },
+  {
+    "intent": "faq_security_privacy",
+    "text": "can i remove my data"
+  },
+  {
+    "intent": "faq_security_privacy",
+    "text": "co you share my data"
+  },
+  {
+    "intent": "faq_security_privacy",
+    "text": "do you shace my data"
+  },
+  {
+    "intent": "faq_security_privacy",
+    "text": "do you share my data"
+  },
+  {
+    "intent": "faq_security_privacy",
+    "text": "do you store card info"
+  },
+  {
+    "intent": "faq_security_privacy",
+    "text": "how safe is my payment"
+  },
+  {
+    "intent": "faq_security_privacy",
+    "text": "is my data secure"
+  },
+  {
+    "intent": "faq_security_privacy",
+    "text": "is this checkout secure"
+  },
+  {
+    "intent": "faq_security_privacy",
+    "text": "is your site encrypted"
+  },
+  {
+    "intent": "faq_security_privacy",
+    "text": "rhak’s yoxr privacy policy"
+  },
+  {
+    "intent": "faq_security_privacy",
+    "text": "what’s youn privacy policy"
+  },
+  {
+    "intent": "faq_security_privacy",
+    "text": "what’s your privacy policy"
+  },
+  {
+    "intent": "faq_shipping",
+    "text": "can i choose shipping date"
+  },
+  {
+    "intent": "faq_shipping",
+    "text": "can i track my shipment"
+  },
+  {
+    "intent": "faq_shipping",
+    "text": "do you deliver at night"
+  },
+  {
+    "intent": "faq_shipping",
+    "text": "do you deliver on weekends"
+  },
+  {
+    "intent": "faq_shipping",
+    "text": "do you offer express delivery"
+  },
+  {
+    "intent": "faq_shipping",
+    "text": "do you ship internationally"
+  },
+  {
+    "intent": "faq_shipping",
+    "text": "how long does shipping take"
+  },
+  {
+    "intent": "faq_shipping",
+    "text": "how much is delivery fee"
+  },
+  {
+    "intent": "faq_shipping",
+    "text": "how to change delivery address"
+  },
+  {
+    "intent": "faq_shipping",
+    "text": "is in-store pickup available"
+  },
+  {
+    "intent": "faq_shipping",
+    "text": "is same-day delivery possible"
+  },
+  {
+    "intent": "faq_shipping",
+    "text": "is shipping insured"
+  },
+  {
+    "intent": "faq_shipping",
+    "text": "is there free shipping"
+  },
+  {
+    "intent": "faq_shipping",
+    "text": "what are shipping options"
+  },
+  {
+    "intent": "faq_shipping",
+    "text": "when will it reach my home"
+  },
+  {
+    "intent": "faq_shipping",
+    "text": "when will my package arrive"
+  },
+  {
+    "intent": "faq_shipping",
+    "text": "will i get tracking number"
+  },
+  {
+    "intent": "faq_store_info",
+    "text": "are you open on sunday"
+  },
+  {
+    "intent": "faq_store_info",
+    "text": "can i return in store"
+  },
+  {
+    "intent": "faq_store_info",
+    "text": "do you have branches"
+  },
+  {
+    "intent": "faq_store_info",
+    "text": "do you have branchrs"
+  },
+  {
+    "intent": "faq_store_info",
+    "text": "do you have service center"
+  },
+  {
+    "intent": "faq_store_info",
+    "text": "do you offer curbside pickup"
+  },
+  {
+    "intent": "faq_store_info",
+    "text": "how to visit your stgre"
+  },
+  {
+    "intent": "faq_store_info",
+    "text": "how to visit your store"
+  },
+  {
+    "intent": "faq_store_info",
+    "text": "is parking available"
+  },
+  {
+    "intent": "faq_store_info",
+    "text": "what are your store hours"
+  },
+  {
+    "intent": "faq_store_info",
+    "text": "where are your stores"
+  },
+  {
+    "intent": "faq_store_info",
+    "text": "where is nearest store"
+  },
+  {
+    "intent": "faq_store_info",
+    "text": "where ore your stores"
+  },
+  {
+    "intent": "faq_student_discount",
+    "text": "any discount for studdnt email"
+  },
+  {
+    "intent": "faq_student_discount",
+    "text": "any discount for student email"
+  },
+  {
+    "intent": "faq_student_discount",
+    "text": "any dishount for student email"
+  },
+  {
+    "intent": "faq_student_discount",
+    "text": "can students get promo"
+  },
+  {
+    "intent": "faq_student_discount",
+    "text": "do you offer student discount"
+  },
+  {
+    "intent": "faq_student_discount",
+    "text": "do you offeu student discount"
+  },
+  {
+    "intent": "faq_student_discount",
+    "text": "dw you offer student discount"
+  },
+  {
+    "intent": "faq_student_discount",
+    "text": "how to gbt student offxr"
+  },
+  {
+    "intent": "faq_student_discount",
+    "text": "how to get student offer"
+  },
+  {
+    "intent": "faq_student_discount",
+    "text": "how to get szudent offer"
+  },
+  {
+    "intent": "faq_student_discount",
+    "text": "is there discouat dor university students"
+  },
+  {
+    "intent": "faq_student_discount",
+    "text": "is there discount for univecsity students"
+  },
+  {
+    "intent": "faq_student_discount",
+    "text": "is there discount for university students"
+  },
+  {
+    "intent": "faq_student_discount",
+    "text": "student deal available?"
+  },
+  {
+    "intent": "faq_subscription",
+    "text": "can i get your newsletter"
+  },
+  {
+    "intent": "faq_subscription",
+    "text": "how do g subscribe"
+  },
+  {
+    "intent": "faq_subscription",
+    "text": "how do i submcribe"
+  },
+  {
+    "intent": "faq_subscription",
+    "text": "how do i subscribe"
+  },
+  {
+    "intent": "faq_subscription",
+    "text": "how do i subscribi"
+  },
+  {
+    "intent": "faq_subscription",
+    "text": "how do i subscrsbe"
+  },
+  {
+    "intent": "faq_subscription",
+    "text": "how to sign up for product alerts"
+  },
+  {
+    "intent": "faq_subscription",
+    "text": "i want email updakes"
+  },
+  {
+    "intent": "faq_subscription",
+    "text": "i want email updates"
+  },
+  {
+    "intent": "faq_subscription",
+    "text": "i wanu email updates"
+  },
+  {
+    "intent": "faq_subscription",
+    "text": "notify me of new arrivals"
+  },
+  {
+    "intent": "faq_subscription",
+    "text": "notify me of nnw arrivals"
+  },
+  {
+    "intent": "faq_subscription",
+    "text": "subscribe for promotions"
+  },
+  {
+    "intent": "faq_subscription",
+    "text": "subscribe for xromotions"
+  },
+  {
+    "intent": "faq_tech_specs",
+    "text": "can i upgrade the ram"
+  },
+  {
+    "intent": "faq_tech_specs",
+    "text": "can i upgrade the rgm"
+  },
+  {
+    "intent": "faq_tech_specs",
+    "text": "does it have usb-c"
+  },
+  {
+    "intent": "faq_tech_specs",
+    "text": "does this assistancf 5g"
+  },
+  {
+    "intent": "faq_tech_specs",
+    "text": "does this support 5g"
+  },
+  {
+    "intent": "faq_tech_specs",
+    "text": "hoq fast is the processor"
+  },
+  {
+    "intent": "faq_tech_specs",
+    "text": "how fast is the processjr"
+  },
+  {
+    "intent": "faq_tech_specs",
+    "text": "how fast is the processor"
+  },
+  {
+    "intent": "faq_tech_specs",
+    "text": "how much ram does it have"
+  },
+  {
+    "intent": "faq_tech_specs",
+    "text": "is the screen full hd"
+  },
+  {
+    "intent": "faq_tech_specs",
+    "text": "is the screen full id"
+  },
+  {
+    "intent": "faq_tech_specs",
+    "text": "what are the specs of this laptop"
+  },
+  {
+    "intent": "faq_tech_specs",
+    "text": "what’s the battery capacity"
+  },
+  {
+    "intent": "faq_tech_specs",
+    "text": "what’s the battery capecity"
+  },
+  {
+    "intent": "faq_warranty",
+    "text": "do you offer warranty"
+  },
+  {
+    "intent": "faq_warranty",
+    "text": "do you replace under warranty"
+  },
+  {
+    "intent": "faq_warranty",
+    "text": "how do i check warranty status"
+  },
+  {
+    "intent": "faq_warranty",
+    "text": "how long is warranty"
+  },
+  {
+    "intent": "faq_warranty",
+    "text": "how to claim gyarantee"
+  },
+  {
+    "intent": "faq_warranty",
+    "text": "how to claim warranty"
+  },
+  {
+    "intent": "faq_warranty",
+    "text": "how to extend warranty"
+  },
+  {
+    "intent": "faq_warranty",
+    "text": "is accidental damage covered"
+  },
+  {
+    "intent": "faq_warranty",
+    "text": "is guarantee included"
+  },
+  {
+    "intent": "faq_warranty",
+    "text": "is international warranty included"
+  },
+  {
+    "intent": "faq_warranty",
+    "text": "is warranty included"
+  },
+  {
+    "intent": "faq_warranty",
+    "text": "is znternational guarantee incjuded"
+  },
+  {
+    "intent": "faq_warranty",
+    "text": "what does warranty cover"
+  },
+  {
+    "intent": "faq_warranty",
+    "text": "what’s the guarantee policy"
+  },
+  {
+    "intent": "faq_warranty",
+    "text": "what’s the warranty policy"
+  },
+  {
+    "intent": "greeting",
+    "text": "good day"
+  },
+  {
+    "intent": "greeting",
+    "text": "good evening"
+  },
+  {
+    "intent": "greeting",
+    "text": "good morning"
+  },
+  {
+    "intent": "greeting",
+    "text": "greetings"
+  },
+  {
+    "intent": "greeting",
+    "text": "hello"
+  },
+  {
+    "intent": "greeting",
+    "text": "hello there"
+  },
+  {
+    "intent": "greeting",
+    "text": "hey"
+  },
+  {
+    "intent": "greeting",
+    "text": "hey bot"
+  },
+  {
+    "intent": "greeting",
+    "text": "hi there"
+  },
+  {
+    "intent": "greeting",
+    "text": "hi txere"
+  },
+  {
+    "intent": "greeting",
+    "text": "hi, assistant"
+  },
+  {
+    "intent": "greeting",
+    "text": "hzllo"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "can i cancel during checkout"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "can i choose delivery date"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "can i edit my cart"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "can i order online"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "can i use guest checkout"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "do i need to sign in to order"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "guide me to order"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "help me order"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "how can i finalize purchase"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "how can i order"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "how can i pay for product"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "how do i checkout"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "how do i choose delivery option"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "how do i confirm my cart"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "how do i place an order"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "how to apply coupon on order"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "how to buy a phone"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "how to complete an order"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "how to get a laptop"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "i want to place an order"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "order guide"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "steps to purchase"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "walk me through ordering"
+  },
+  {
+    "intent": "how_to_order",
+    "text": "what's the process to order"
+  },
+  {
+    "intent": "payment_help",
+    "text": "can i pay in store"
+  },
+  {
+    "intent": "payment_help",
+    "text": "can i pay with apple pay"
+  },
+  {
+    "intent": "payment_help",
+    "text": "can i pay with opple pay"
+  },
+  {
+    "intent": "payment_help",
+    "text": "can i pay with paypal"
+  },
+  {
+    "intent": "payment_help",
+    "text": "can i save my card"
+  },
+  {
+    "intent": "payment_help",
+    "text": "can i split payments"
+  },
+  {
+    "intent": "payment_help",
+    "text": "can i use apple pay"
+  },
+  {
+    "intent": "payment_help",
+    "text": "can i use credit card"
+  },
+  {
+    "intent": "payment_help",
+    "text": "can i use paypal"
+  },
+  {
+    "intent": "payment_help",
+    "text": "do you accbpt credit card"
+  },
+  {
+    "intent": "payment_help",
+    "text": "do you accept credit card"
+  },
+  {
+    "intent": "payment_help",
+    "text": "do you accept credit cards"
+  },
+  {
+    "intent": "payment_help",
+    "text": "do you accept visa"
+  },
+  {
+    "intent": "payment_help",
+    "text": "do you assistance debit cards"
+  },
+  {
+    "intent": "payment_help",
+    "text": "do you email invoice"
+  },
+  {
+    "intent": "payment_help",
+    "text": "do you support debit cards"
+  },
+  {
+    "intent": "payment_help",
+    "text": "do you take bank transfer"
+  },
+  {
+    "intent": "payment_help",
+    "text": "how do i add a new card"
+  },
+  {
+    "intent": "payment_help",
+    "text": "how do i know payment succeeded"
+  },
+  {
+    "intent": "payment_help",
+    "text": "how do i pay"
+  },
+  {
+    "intent": "payment_help",
+    "text": "how long does payment take"
+  },
+  {
+    "intent": "payment_help",
+    "text": "how secure is payment"
+  },
+  {
+    "intent": "payment_help",
+    "text": "how to apply discount code"
+  },
+  {
+    "intent": "payment_help",
+    "text": "is apple pay supported"
+  },
+  {
+    "intent": "payment_help",
+    "text": "is bank transfer available"
+  },
+  {
+    "intent": "payment_help",
+    "text": "is cash on delivery available"
+  },
+  {
+    "intent": "payment_help",
+    "text": "is my card info safe"
+  },
+  {
+    "intent": "payment_help",
+    "text": "is payment encrypted"
+  },
+  {
+    "intent": "payment_help",
+    "text": "is payment secure"
+  },
+  {
+    "intent": "payment_help",
+    "text": "payment failed what should i do"
+  },
+  {
+    "intent": "payment_help",
+    "text": "what payment methods do you take"
+  },
+  {
+    "intent": "payment_help",
+    "text": "what payment methods you support"
+  },
+  {
+    "intent": "payment_help",
+    "text": "what wayq can i pay"
+  },
+  {
+    "intent": "payment_help",
+    "text": "what ways can i pay"
+  },
+  {
+    "intent": "payment_help",
+    "text": "what wyys cap i pay"
+  },
+  {
+    "intent": "payment_help",
+    "text": "where to enter promo"
+  },
+  {
+    "intent": "payment_help",
+    "text": "where to enter promo code"
+  },
+  {
+    "intent": "payment_help",
+    "text": "will i get receipt"
+  },
+  {
+    "intent": "promotion_info",
+    "text": "amy current discounts"
+  },
+  {
+    "intent": "promotion_info",
+    "text": "any current discounts"
+  },
+  {
+    "intent": "promotion_info",
+    "text": "any laptop discount"
+  },
+  {
+    "intent": "promotion_info",
+    "text": "can i get a coupon"
+  },
+  {
+    "intent": "promotion_info",
+    "text": "can i get coupon"
+  },
+  {
+    "intent": "promotion_info",
+    "text": "can i get couton"
+  },
+  {
+    "intent": "promotion_info",
+    "text": "can i get new user offer"
+  },
+  {
+    "intent": "promotion_info",
+    "text": "do you havc sales"
+  },
+  {
+    "intent": "promotion_info",
+    "text": "do you have promo codes"
+  },
+  {
+    "intent": "promotion_info",
+    "text": "do you have sales"
+  },
+  {
+    "intent": "promotion_info",
+    "text": "do you offer deals"
+  },
+  {
+    "intent": "promotion_info",
+    "text": "how to get discount"
+  },
+  {
+    "intent": "promotion_info",
+    "text": "is there a black friday deal"
+  },
+  {
+    "intent": "promotion_info",
+    "text": "new user offer available"
+  },
+  {
+    "intent": "promotion_info",
+    "text": "student discount available"
+  },
+  {
+    "intent": "promotion_info",
+    "text": "student offer available"
+  },
+  {
+    "intent": "promotion_info",
+    "text": "what are your offers"
+  },
+  {
+    "intent": "promotion_info",
+    "text": "when does the sale end"
+  },
+  {
+    "intent": "promotion_info",
+    "text": "where to enter code"
+  },
+  {
+    "intent": "refund_status",
+    "text": "did my refund get approved"
+  },
+  {
+    "intent": "refund_status",
+    "text": "how long does a refund take"
+  },
+  {
+    "intent": "refund_status",
+    "text": "how soon is money back"
+  },
+  {
+    "intent": "refund_status",
+    "text": "refsnd taking too long"
+  },
+  {
+    "intent": "refund_status",
+    "text": "refund not received yet"
+  },
+  {
+    "intent": "refund_status",
+    "text": "refund taking too long"
+  },
+  {
+    "intent": "refund_status",
+    "text": "status of my refund"
+  },
+  {
+    "intent": "refund_status",
+    "text": "when do you issue befunds"
+  },
+  {
+    "intent": "refund_status",
+    "text": "when do you issue refunds"
+  },
+  {
+    "intent": "refund_status",
+    "text": "when will i get my refund"
+  },
+  {
+    "intent": "refund_status",
+    "text": "when will i get my reimbursement"
+  },
+  {
+    "intent": "refund_status",
+    "text": "when will the refund show up"
+  },
+  {
+    "intent": "refund_status",
+    "text": "where is my refund"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "can i exchange instead"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "can i exchange instead of refund"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "can i return an item"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "can i return used product"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "can i send something back"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "do i get full refund"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "do i get store credit"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "do i need invoice to return"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "do i need the invoice to return"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "do you accept opened items"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "how do i start a return"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "how do returns work"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "how fast are returns processed"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "how long do i have to return"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "how long do returns take"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "how to request refund"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "how to send back item"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "how to start a return"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "is refund automatic"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "is return shipping free"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "is there a return form"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "return period length"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "what is your return policy"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "whats your return window"
+  },
+  {
+    "intent": "return_policy_info",
+    "text": "where do i send returned item"
+  },
+  {
+    "intent": "services_info",
+    "text": "are smartwatches sold"
+  },
+  {
+    "intent": "services_info",
+    "text": "can i buy accessories"
+  },
+  {
+    "intent": "services_info",
+    "text": "can i get headphones here"
+  },
+  {
+    "intent": "services_info",
+    "text": "can you fix my laptop"
+  },
+  {
+    "intent": "services_info",
+    "text": "do you do servicing"
+  },
+  {
+    "intent": "services_info",
+    "text": "do you fix devices"
+  },
+  {
+    "intent": "services_info",
+    "text": "do you have phone services"
+  },
+  {
+    "intent": "services_info",
+    "text": "do you install software"
+  },
+  {
+    "intent": "services_info",
+    "text": "do you offer delivery"
+  },
+  {
+    "intent": "services_info",
+    "text": "do you offer support"
+  },
+  {
+    "intent": "services_info",
+    "text": "do you provide tech support"
+  },
+  {
+    "intent": "services_info",
+    "text": "do you provide warranty"
+  },
+  {
+    "intent": "services_info",
+    "text": "do you repair phones"
+  },
+  {
+    "intent": "services_info",
+    "text": "do you replace batteries"
+  },
+  {
+    "intent": "services_info",
+    "text": "do you sell electronics"
+  },
+  {
+    "intent": "services_info",
+    "text": "give info on services"
+  },
+  {
+    "intent": "services_info",
+    "text": "is cleaning service available"
+  },
+  {
+    "intent": "services_info",
+    "text": "is device insurance included"
+  },
+  {
+    "intent": "services_info",
+    "text": "is repair included"
+  },
+  {
+    "intent": "services_info",
+    "text": "list your services"
+  },
+  {
+    "intent": "services_info",
+    "text": "tell me about your services"
+  },
+  {
+    "intent": "services_info",
+    "text": "tell me your services"
+  },
+  {
+    "intent": "services_info",
+    "text": "what are your main offerings"
+  },
+  {
+    "intent": "services_info",
+    "text": "what do you offer"
+  },
+  {
+    "intent": "services_info",
+    "text": "what do you sell"
+  },
+  {
+    "intent": "services_info",
+    "text": "what kind of products you offer"
+  },
+  {
+    "intent": "services_info",
+    "text": "what services do you offer"
+  },
+  {
+    "intent": "services_info",
+    "text": "what services do you provide"
+  },
+  {
+    "intent": "website_navigation",
+    "text": "can't find settings"
+  },
+  {
+    "intent": "website_navigation",
+    "text": "direct me to your homepage"
+  },
+  {
+    "intent": "website_navigation",
+    "text": "help me use your website"
+  },
+  {
+    "intent": "website_navigation",
+    "text": "how to access cart"
+  },
+  {
+    "intent": "website_navigation",
+    "text": "how to find your contact info"
+  },
+  {
+    "intent": "website_navigation",
+    "text": "how to get to profile"
+  },
+  {
+    "intent": "website_navigation",
+    "text": "how to navigate your site"
+  },
+  {
+    "intent": "website_navigation",
+    "text": "how to open product list"
+  },
+  {
+    "intent": "website_navigation",
+    "text": "how to see previous chats"
+  },
+  {
+    "intent": "website_navigation",
+    "text": "i can't find the home page"
+  },
+  {
+    "intent": "website_navigation",
+    "text": "i need to find payment options"
+  },
+  {
+    "intent": "website_navigation",
+    "text": "is there a chatbot icon"
+  },
+  {
+    "intent": "website_navigation",
+    "text": "link to services section"
+  },
+  {
+    "intent": "website_navigation",
+    "text": "show me faq page"
+  },
+  {
+    "intent": "website_navigation",
+    "text": "where can i login"
+  },
+  {
+    "intent": "website_navigation",
+    "text": "where can i see my orders"
+  },
+  {
+    "intent": "website_navigation",
+    "text": "where is newsletter signup"
+  },
+  {
+    "intent": "website_navigation",
+    "text": "where is return policy"
+  },
+  {
+    "intent": "website_navigation",
+    "text": "where is the support section"
+  },
+  {
+    "intent": "website_navigation",
+    "text": "where to update email"
+  },
+  {
+    "intent": "website_navigation",
+    "text": "which page has refund info"
+  },
+  {
+    "intent": "website_navigation",
+    "text": "which page shows pricing"
+  },
+  {
+    "intent": "website_navigation",
+    "text": "your site is confusing"
+  },
+  {"intent": "website_navigation", "text": "where can i find the warranty page"},
+{"intent": "website_navigation", "text": "link me to return policy"},
+{"intent": "website_navigation", "text": "show me the promotions section"},
+{"intent": "website_navigation", "text": "which page has delivery information"},
+{"intent": "website_navigation", "text": "navigate to contact us"},
+{"intent": "website_navigation", "text": "where is faq section on the site"},
+{"intent": "website_navigation", "text": "go to the payment methods page"},
+{"intent": "website_navigation", "text": "find the exchange policy page"},
+{"intent": "website_navigation", "text": "direct me to order tracking"},
+{"intent": "website_navigation", "text": "how to reach tech support page"},
+{"intent": "website_navigation", "text": "access student discount info page"},
+{"intent": "website_navigation", "text": "open subscription plans section"},
+{"intent": "faq_exchange_policy", "text": "can i exchange instead of getting a refund"},
+{"intent": "faq_exchange_policy", "text": "what is the exchange time limit"},
+{"intent": "faq_exchange_policy", "text": "exchange policy for damaged items"},
+{"intent": "faq_exchange_policy", "text": "is exchange possible without receipt"},
+{"intent": "faq_exchange_policy", "text": "can i swap for another size"},
+{"intent": "faq_exchange_policy", "text": "is exchange allowed for sale items"},
+{"intent": "faq_exchange_policy", "text": "do you offer exchange for wrong item sent"},
+{"intent": "faq_exchange_policy", "text": "exchange process after delivery"},
+{"intent": "faq_exchange_policy", "text": "can i exchange in store after online purchase"},
+{"intent": "faq_exchange_policy", "text": "exchange policy for unopened products"},
+{"intent": "promotion_info", "text": "is any coupon available right now"},
+{"intent": "promotion_info", "text": "current offers for first time buyers"},
+{"intent": "promotion_info", "text": "do you have summer sale discounts"},
+{"intent": "promotion_info", "text": "any student discount today"},
+{"intent": "promotion_info", "text": "are there promo codes i can use"},
+{"intent": "promotion_info", "text": "when does the sale end"},
+{"intent": "promotion_info", "text": "do you offer bundle discounts"},
+{"intent": "promotion_info", "text": "special deals for loyal customers"},
+{"intent": "promotion_info", "text": "any discounts for large orders"},
+{"intent": "promotion_info", "text": "do you have seasonal offers"},
+{"intent": "return_policy_info", "text": "how do i get a return label"},
+{"intent": "return_policy_info", "text": "can i return without the original box"},
+{"intent": "return_policy_info", "text": "is the return shipping free"},
+{"intent": "return_policy_info", "text": "what is your return window"},
+{"intent": "return_policy_info", "text": "return process for defective items"},
+{"intent": "return_policy_info", "text": "do you accept returns for opened products"},
+{"intent": "return_policy_info", "text": "can i return to store after online order"},
+{"intent": "return_policy_info", "text": "what documents needed for return"},
+{"intent": "return_policy_info", "text": "how many days to return after delivery"},
+{"intent": "return_policy_info", "text": "can i get a refund for returned items"},
+{"intent": "faq_account", "text": "how do i reset my password"},
+{"intent": "faq_account", "text": "account locked after too many tries"},
+{"intent": "faq_account", "text": "change my login email address"},
+{"intent": "faq_account", "text": "verify my account details"},
+{"intent": "faq_account", "text": "how to update profile information"},
+{"intent": "faq_account", "text": "delete my account permanently"},
+{"intent": "faq_account", "text": "cannot sign in to account"},
+{"intent": "faq_account", "text": "unlock my account"},
+{"intent": "faq_account", "text": "recover forgotten username"},
+{"intent": "faq_account", "text": "how to deactivate my account"},
+{"intent": "faq_account", "text": "where can i change my password"},
+{"intent": "faq_account", "text": "which page has account settings"},
+{"intent": "payment_help", "text": "where to update my payment details"},
+{"intent": "payment_help", "text": "navigate to billing information"},
+{"intent": "return_policy_info", "text": "where is the return instructions page"},
+{"intent": "return_policy_info", "text": "which page shows refund steps"},
+{"intent": "faq_shipping", "text": "where to find delivery status page"},
+{"intent": "faq_shipping", "text": "link to shipping cost details"},
+{"intent": "promotion_info", "text": "where can i find current discounts"},
+{"intent": "promotion_info", "text": "link to coupon codes"},
+{"intent": "services_info", "text": "navigate to repair services"},
+{"intent": "services_info", "text": "which page lists all services"},
+{"intent": "services_info", "text": "do you set up new phones"},
+{"intent": "services_info", "text": "do you install antivirus software"},
+{"intent": "services_info", "text": "can you replace a cracked screen"},
+{"intent": "services_info", "text": "do you offer data recovery service"},
+{"intent": "services_info", "text": "do you sell phone chargers and cases"},
+{"intent": "services_info", "text": "do you do same day repairs"},
+{"intent": "services_info", "text": "can you upgrade my laptop ram"},
+{"intent": "services_info", "text": "do you offer in store pickup"},
+{"intent": "faq_shipping", "text": "how can i track my delivery"},
+{"intent": "faq_shipping", "text": "can i change my delivery date"},
+{"intent": "faq_shipping", "text": "what to do if my delivery is late"},
+{"intent": "faq_shipping", "text": "do you ship internationally"},
+{"intent": "faq_shipping", "text": "is signature required for delivery"},
+{"intent": "faq_shipping", "text": "which courier do you use"},
+{"intent": "faq_shipping", "text": "can i pick up my order from store"},
+{"intent": "faq_shipping", "text": "do you offer express shipping"},
+{"intent": "faq_chatbot_capability", "text": "are you a human"},
+{"intent": "faq_chatbot_capability", "text": "what can you do"},
+{"intent": "faq_chatbot_capability", "text": "can you cancel my order"},
+{"intent": "faq_chatbot_capability", "text": "can you check my order status"},
+{"intent": "faq_chatbot_capability", "text": "can you help with checkout"},
+{"intent": "faq_chatbot_capability", "text": "are you available 24 7"},
+{"intent": "faq_chatbot_capability", "text": "can you connect me to an agent"},
+{"intent": "faq_chatbot_capability", "text": "what requests can you handle"}
+]

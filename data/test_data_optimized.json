@@ -1,0 +1,302 @@
+[
+  {
+    "text": "need to talk to a human",
+    "intent": "contact_support"
+  },
+  {
+    "text": "how can i reach support?",
+    "intent": "contact_support"
+  },
+  {
+    "text": "is live chat working now?",
+    "intent": "contact_support"
+  },
+  {
+    "text": "ok thanks bye",
+    "intent": "end_chat"
+  },
+  {
+    "text": "that’s it for now",
+    "intent": "end_chat"
+  },
+  {
+    "text": "you can close this",
+    "intent": "end_chat"
+  },
+  {
+    "text": "cant login to my account",
+    "intent": "faq_account"
+  },
+  {
+    "text": "how to reset password?",
+    "intent": "faq_account"
+  },
+  {
+    "text": "where do i change my email?",
+    "intent": "faq_account"
+  },
+  {
+    "text": "can i buy in bulk?",
+    "intent": "faq_bulk_purchase"
+  },
+  {
+    "text": "do you have wholesale pricing?",
+    "intent": "faq_bulk_purchase"
+  },
+  {
+    "text": "order 20 units possible?",
+    "intent": "faq_bulk_purchase"
+  },
+  {
+    "text": "do you match prices?",
+    "intent": "faq_price_negotiation"
+  },
+  {
+    "text": "any room for discount?",
+    "intent": "faq_price_negotiation"
+  },
+  {
+    "text": "is this the final price?",
+    "intent": "faq_price_negotiation"
+  },
+  {
+    "text": "is this item new or refurbished?",
+    "intent": "faq_product_condition"
+  },
+  {
+    "text": "do you sell used phones?",
+    "intent": "faq_product_condition"
+  },
+  {
+    "text": "are laptops refurbished?",
+    "intent": "faq_product_condition"
+  },
+  {
+    "text": "is this authentic?",
+    "intent": "faq_product_quality"
+  },
+  {
+    "text": "is it durable?",
+    "intent": "faq_product_quality"
+  },
+  {
+    "text": "will it break easily?",
+    "intent": "faq_product_quality"
+  },
+  {
+    "text": "do you have a referral program?",
+    "intent": "faq_referral_program"
+  },
+  {
+    "text": "how do i refer a friend?",
+    "intent": "faq_referral_program"
+  },
+  {
+    "text": "what is the referral bonus?",
+    "intent": "faq_referral_program"
+  },
+  {
+    "text": "what's the return window?",
+    "intent": "faq_return_timeframe"
+  },
+  {
+    "text": "can i return next month?",
+    "intent": "faq_return_timeframe"
+  },
+  {
+    "text": "how many days to return?",
+    "intent": "faq_return_timeframe"
+  },
+  {
+    "text": "is checkout secure?",
+    "intent": "faq_security_privacy"
+  },
+  {
+    "text": "do you store my card?",
+    "intent": "faq_security_privacy"
+  },
+  {
+    "text": "can i delete my data?",
+    "intent": "faq_security_privacy"
+  },
+  {
+    "text": "do you deliver on weekends?",
+    "intent": "faq_shipping"
+  },
+  {
+    "text": "change delivery address after ordering?",
+    "intent": "faq_shipping"
+  },
+  {
+    "text": "international shipping available?",
+    "intent": "faq_shipping"
+  },
+  {
+    "text": "nearest store address?",
+    "intent": "faq_store_info"
+  },
+  {
+    "text": "are stores open on sunday?",
+    "intent": "faq_store_info"
+  },
+  {
+    "text": "in-store returns allowed?",
+    "intent": "faq_store_info"
+  },
+  {
+    "text": "how do i subscribe to updates?",
+    "intent": "faq_subscription"
+  },
+  {
+    "text": "newsletter signup link?",
+    "intent": "faq_subscription"
+  },
+  {
+    "text": "notify me of new arrivals",
+    "intent": "faq_subscription"
+  },
+  {
+    "text": "does this support 5g?",
+    "intent": "faq_tech_specs"
+  },
+  {
+    "text": "how much ram does it have?",
+    "intent": "faq_tech_specs"
+  },
+  {
+    "text": "is the screen full hd?",
+    "intent": "faq_tech_specs"
+  },
+  {
+    "text": "is warranty included?",
+    "intent": "faq_warranty"
+  },
+  {
+    "text": "how to claim warranty?",
+    "intent": "faq_warranty"
+  },
+  {
+    "text": "does it cover accidental damage?",
+    "intent": "faq_warranty"
+  },
+  {
+    "text": "hello there!",
+    "intent": "greeting"
+  },
+  {
+    "text": "hey!",
+    "intent": "greeting"
+  },
+  {
+    "text": "good morning bot",
+    "intent": "greeting"
+  },
+  {
+    "text": "how do i place an order online?",
+    "intent": "how_to_order"
+  },
+  {
+    "text": "guest checkout possible?",
+    "intent": "how_to_order"
+  },
+  {
+    "text": "can i edit my cart before pay?",
+    "intent": "how_to_order"
+  },
+  {
+    "text": "can i pay with paypal?",
+    "intent": "payment_help"
+  },
+  {
+    "text": "is apple pay supported?",
+    "intent": "payment_help"
+  },
+  {
+    "text": "where do i enter promo code?",
+    "intent": "payment_help"
+  },
+  {
+    "text": "any discounts this week?",
+    "intent": "promotion_info"
+  },
+  {
+    "text": "when does the sale end?",
+    "intent": "promotion_info"
+  },
+  {
+    "text": "new customer offer?",
+    "intent": "promotion_info"
+  },
+  {
+    "text": "how long for refund?",
+    "intent": "refund_status"
+  },
+  {
+    "text": "where is my refund?",
+    "intent": "refund_status"
+  },
+  {
+    "text": "refund still pending?",
+    "intent": "refund_status"
+  },
+  {
+    "text": "how do i start a return?",
+    "intent": "return_policy_info"
+  },
+  {
+    "text": "is return shipping free?",
+    "intent": "return_policy_info"
+  },
+  {
+    "text": "can i exchange instead of refund?",
+    "intent": "return_policy_info"
+  },
+  {
+    "text": "what do you guys do exactly",
+    "intent": "services_info"
+  },
+  {
+    "text": "do you repair tablets?",
+    "intent": "services_info"
+  },
+  {
+    "text": "do you sell accessories?",
+    "intent": "services_info"
+  },
+  {
+    "text": "link to return policy page",
+    "intent": "website_navigation"
+  },
+  {
+    "text": "where is account settings?",
+    "intent": "website_navigation"
+  },
+  {
+    "text": "open the shipping info page",
+    "intent": "website_navigation"
+  },
+  {
+    "text": "how long does it take",
+    "intent": "refund_status"
+  },
+  {
+    "text": "i need help",
+    "intent": "contact_support"
+  },
+  {
+    "text": "where do i find that page",
+    "intent": "website_navigation"
+  },
+  {
+    "text": "can i change it later",
+    "intent": "how_to_order"
+  },
+  {
+    "text": "is payment safe",
+    "intent": "payment_help"
+  },
+  {
+    "text": "not happy with product",
+    "intent": "return_policy_info"
+  }
+]

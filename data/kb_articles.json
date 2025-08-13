@@ -1,0 +1,49 @@
+[
+  {
+    "id": "services_info",
+    "title": "Our Services",
+    "url": "/services",
+    "last_updated": "2025-08-01",
+    "summary": "We offer device repairs, electronics sales, software installation, and tech support.",
+    "steps": [
+      "Visit the Services page on our website.",
+      "Select the service you are interested in.",
+      "Follow the instructions to request or book."
+    ],
+    "faqs": [
+      { "q": "Do you repair laptops?", "a": "Yes, we repair laptops, phones, and accessories." },
+      { "q": "Do you sell accessories?", "a": "Yes, accessories are available in-store and online." }
+    ]
+  },
+  {
+    "id": "return_policy_info",
+    "title": "Return Policy",
+    "url": "/help/returns",
+    "last_updated": "2025-06-30",
+    "summary": "Items can be returned within 30 days of purchase in original condition.",
+    "steps": [
+      "Log into your account.",
+      "Go to the Orders section.",
+      "Select the order and click 'Request a Return'."
+    ],
+    "faqs": [
+      { "q": "Is return shipping free?", "a": "Return shipping is free for defective products." },
+      { "q": "How long for a refund?", "a": "Refunds are processed within 5 business days after inspection." }
+    ]
+  },
+  {
+    "id": "faq_shipping",
+    "title": "Shipping Information",
+    "url": "/help/shipping",
+    "last_updated": "2025-07-20",
+    "summary": "We ship locally and internationally with various delivery options.",
+    "steps": [
+      "Choose your preferred shipping method at checkout.",
+      "You will receive a tracking number via email after dispatch."
+    ],
+    "faqs": [
+      { "q": "Do you ship internationally?", "a": "Yes, we ship worldwide via selected carriers." },
+      { "q": "Can I change my delivery address?", "a": "Yes, contact support before your order is dispatched." }
+    ]
+  }
+]
